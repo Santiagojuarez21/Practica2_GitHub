@@ -1,6 +1,6 @@
 # COMANDOS BÁSICOS DE GIT
 # Taller – Git & GitHub (flujo individual, sin ramas)
-Nombre:Santiago Juárez Ramos
+Nombre:Santiago JR
 Matrícula:2233071122
 
 ====================================================================
